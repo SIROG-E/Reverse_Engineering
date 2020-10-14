@@ -1,6 +1,16 @@
 # Unit 14 Sequelize Homework: Reverse Engineering Code
+ <br>
+
+  [![GitHub license](https://img.shields.io/badge/Made%20by-SIROG--E-ab8c9b?style=flat&logo=github)](http://https://github.com/SIROG-E)  
+  <br>
+[GOOGLE DOC TUTORIAL](https://docs.google.com/document/d/1uRKRnCHjY91nmyWu61V2HTNd2MI7UkwM1NNTcXNhQsI/edit#)
+
+  - - -
+  <br>
 
 Reverse engineer the starter code provided and create a tutorial for the code.
+
+
 
 In the `Develop` folder, there is starter code for a project. Begin inspecting the code to get an understanding of each file's responsibility. Then, in a Google Doc, write a tutorial explaining *every* file and its purpose. If one file is dependant on other files, be sure to let the user know.
 
